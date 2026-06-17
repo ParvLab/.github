@@ -80,10 +80,10 @@ Developer Workspace Platform
 
 Open-Source Cryptography Toolkit
 
-• Cryptographic utilities
-• Security-focused tooling
-• Modern encryption workflows
-• Developer-friendly APIs
+* Cryptographic utilities
+* Security-focused tooling
+* Modern encryption workflows
+* Developer-friendly APIs
 
 </td>
 </tr>
