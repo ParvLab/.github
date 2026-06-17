@@ -76,14 +76,14 @@ Developer Workspace Platform
 
 <td width="50%">
 
-## ₿ CryptoTrace
+## 🔐 CryptoTrace
 
-Blockchain Investigation Toolkit
+Open-Source Cryptography Toolkit
 
-* Wallet intelligence
-* Transaction analysis
-* Investigation workflows
-* On-chain tracing
+• Cryptographic utilities
+• Security-focused tooling
+• Modern encryption workflows
+• Developer-friendly APIs
 
 </td>
 </tr>
