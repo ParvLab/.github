@@ -8,7 +8,6 @@ Local-First • Authorization • Synchronization • Developer Experience
 
 <br>
 
-![GitHub Org's stars](https://img.shields.io/github/stars/ParvLab?style=for-the-badge)
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success?style=for-the-badge)
 ![Built With](https://img.shields.io/badge/Built%20With-TypeScript%20%7C%20Go%20%7C%20Rust-blue?style=for-the-badge)
 
@@ -77,14 +76,14 @@ Developer Workspace Platform
 
 <td width="50%">
 
-## ₿ CryptoTrace
+## 🔐 CryptoTrace
 
-Blockchain Investigation Toolkit
+Open-Source Cryptography Toolkit
 
-* Wallet intelligence
-* Transaction analysis
-* Investigation workflows
-* On-chain tracing
+* Cryptographic utilities
+* Security-focused tooling
+* Modern encryption workflows
+* Developer-friendly APIs
 
 </td>
 </tr>
